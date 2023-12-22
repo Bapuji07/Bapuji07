@@ -3,7 +3,7 @@
 <h3 align="center">I am a Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonire&label=Profile%20views&color=0e75b6&style=flat" alt="Bapuji" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bapuji&label=Profile%20views&color=0e75b6&style=flat" alt="Bapuji" /> </p>
 
 - 🔭 I’m currently a Fresher
 
