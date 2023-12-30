@@ -1,5 +1,5 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="200" />
 <h1 align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&align=center&color=ffffff&random=false&width=535&lines=%E2%9C%A8+Hey 👋,I'm+Bapuji.You are Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1> 
