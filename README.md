@@ -1,6 +1,6 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 <h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&align=center&color=ffffff&random=false&width=535&lines=%E2%9C%A8+Hey 👋,I'm+Bapuji.+You are Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&align=center&color=ffffff&random=false&width=535&lines=%E2%9C%A8+Hey 👋,I'm+Bapuji.You are Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1> 
 <h3 align="center">I am a Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
